@@ -37,7 +37,6 @@ brew install sqlite
 * Python
 * Sqlite3
 * https://restcountries.com/
-* 
 ## ✒️ Autores
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
